@@ -1,0 +1,1 @@
+JohanB.AspNet.Diagnostics.HealthChecks
